@@ -1,3 +1,4 @@
+document.getElementById("bt").addEventListener("click", handleOnClick);
 
 function handleOnClick() {
     alert("클릭!");
